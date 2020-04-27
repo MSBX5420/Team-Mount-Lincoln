@@ -1,7 +1,7 @@
-Team Mount Lincoln
-Team Members: Nicholas Cottrell, Jenny Kao, Molly Pagden, Upasana Rangaraju, Isaac Smith
-●	Dataset: https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products#1429_1.csv
-●	Environment: Use AWS EMR and other AWS services
+###Team Mount Lincoln
+## Team Members: Nicholas Cottrell, Jenny Kao, Molly Pagden, Upasana Rangaraju, Isaac Smith
+- Dataset: https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products#1429_1.csv
+- Environment: Use AWS EMR and other AWS services
 ●	Programming Language: Use Spark with Python/R/SQL/Scala
 ●	Requirement phase (Due April 12th): 
 ○	Connect - Slack Channel: https://app.slack.com/client/TTTHGVCTS/G011CV7J18B/details/members
