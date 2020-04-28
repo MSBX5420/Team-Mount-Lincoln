@@ -17,7 +17,7 @@
     - We will also compare the reviews/review ratings  of the product for the first 90 day of the product launch and after the 90 days of the product launch. ( comparison about different categories, clothings vs electronic items)  
     - We will also try to predict the rating of the product with the customer’s review of the product. 
 - Performance Requirements:
- - Our dataset is huge, almost 400 MB, so we will need several nodes to enhance performance and speed of processing
+  - Our dataset is huge, almost 400 MB, so we will need several nodes to enhance performance and speed of processing
 -	Helpful link:
 https://aws.amazon.com/blogs/machine-learning/detect-sentiment-from-customer-reviews-using-amazon-comprehend/
 
